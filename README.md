@@ -10,4 +10,4 @@
 ![](https://github.com/ssonyau/Connecting-a-Wordpress-Theme/blob/main/Screenshot%202023-04-19%20155948.png)
 
 #### 4) Після натискаємо на назву нашого сайту, і бачимо, що тема була підключена та активована успішно.
-![](https://github.com/ssonyau/)
+![](https://github.com/ssonyau/Connecting-a-Wordpress-Theme/blob/main/Screenshot%202023-04-19%20160304.png)
