@@ -1,1 +1,1 @@
-# Connecting-a-Wordpress-Theme
+# Підключення теми до Wordpress
